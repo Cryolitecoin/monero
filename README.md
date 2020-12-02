@@ -1,1 +1,4 @@
-# monero
+48tw6hEgBvPLN4gVn6nw2ThoWnVLw41gPbdZjx1kzRtQRbmM5MsLoZ5NqKPFcVDit264uUrf1j6Chf5UiaYe8NaCRWvaKU5
+
+
+gulf.moneroocean.stream:10001
